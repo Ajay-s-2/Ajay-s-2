@@ -41,23 +41,39 @@ class LinkedList {
     }
 
     // Merge two lists by interleaving the nodes
-    public void mergeAlternate(LinkedList otherList) {
+    public void mergeAlternate(LinkedList otherList,int n) {
         Node p1 = this.head;
         Node p2 = otherList.head;
         Node next1, next2;
 
-        while (p1 != null && p2 != null) {
-            next1 = p1.next;
-            next2 = p2.next;
+        // while (p1 != null && p2 != null) {
+        //     next1 = p1.next;
+        //     next2 = p2.next;
 
-            p1.next = p2;  // Link p1 -> p2
-            if (next1 == null) {
-                break;
+        //     p1.next = p2;  // Link p1 -> p2
+        //     if (next1 == null) {
+        //         break;
+        //     }
+        //     p2.next = next1;  // Link p2 -> next1
+
+        //     p1 = next1;
+        //     p2 = next2;
+        // }
+        for(int i=0;i<n;i++){
+            if(p1!=null){
+                System.out.print(p1.data+" ");
+                p1=p1.next;
             }
-            p2.next = next1;  // Link p2 -> next1
-
-            p1 = next1;
-            p2 = next2;
+            else{
+                System.out.print("_");
+            }
+            if(p2!=null){
+                System.out.print(p2.data+" ");
+                p2=p2.next;
+            }
+            else{
+                System.out.print("_");
+            }
         }
     }
 }
@@ -94,11 +110,11 @@ public class linkedlistprogram2 {
         list2.printList();
 
         // Merge lists by interleaving
-        list1.mergeAlternate(list2);
+        list1.mergeAlternate(list2,n2);
 
         // Print the merged list
-        System.out.println("Merged List:");
-        list1.printList();
+        // System.out.println("Merged List:");
+        // list1.printList();
 
         sc.close();
     }
