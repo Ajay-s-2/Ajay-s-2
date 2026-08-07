@@ -11,20 +11,23 @@
   - Software Engineer Intern @ IndieSpirit Technologies LLP
   - Junior Associate Developer @ Calanjiyam Consultancies
 - 🏆 Intern of the Week @ Calanjiyam Consultancies
-- 📫 Reach me: **sajayajay874@gmail.com**
 - ⚡ Fun fact: I enjoy solving coding problems and building real-world backend applications.
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Contact Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ajay-s53" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="mailto:sajayajay874@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://github.com/Ajay-s-2" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<a href="https://linkedin.com/in/ajay-s53">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ajay-s-2">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -64,34 +67,18 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 📌 Task Management System
-- Node.js, Express.js, React.js, MongoDB
-- JWT Authentication
-- Role-Based Authorization
-- REST APIs
-- Pagination & Filtering
-- MVC Architecture
+## 📊 GitHub Stats
 
-### 🏥 Hospital Inventory Management System
-- Node.js
-- Express.js
-- MongoDB
-- Inventory Tracking
-- Low Stock Alerts
-- REST APIs
-- Scalable Database Design
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-s-2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-s-2&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ajay-s-2&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-s-2&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-s-2&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-s-2&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -100,7 +87,25 @@
 <!-- Add your coding profile links -->
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajayajay874?theme=dark&font=Sulphur%20Point&ext=heatmap)
-- HackerRank:
-- CodeChef:
-- GeeksforGeeks:
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/sajayajay874?theme=dark&font=Karma&ext=heatmap"/>
+</p>
 
+### GeeksforGeeks
+
+<p align="center">
+<a href="https://auth.geeksforgeeks.org/user/sajayaj4dr2">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sajayaj4dr2"/>
+</a>
+</p>
+
+---
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ajay-s-2&style=for-the-badge&color=0e75b6"/>
+</p>
+
+---
+
+> **"Building scalable backend systems, one API at a time."**
