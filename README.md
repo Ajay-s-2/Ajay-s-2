@@ -99,7 +99,7 @@
 
 <!-- Add your coding profile links -->
 
-- LeetCode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/sajayajay874?theme=dark&font=Sulphur%20Point&ext=heatmap)
 - HackerRank:
 - CodeChef:
 - GeeksforGeeks:
